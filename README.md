@@ -1,6 +1,6 @@
 # Interactive Supply Chain Dashboard
 
-![Dashboard Preview](iscanal.jpg)
+![Dashboard Preview](https://github.com/hussain-data/Interactive-Supply-Chain-Dashboard/blob/857401bdf5218ac9cf7d7422274e8065ab522acb/iscanal.png)
 
 ## 📖 Project Overview
 
