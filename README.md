@@ -1,4 +1,4 @@
-# Interactive Supply Chain Dashboard
+# Supply Chain & Inventory Performance Analysis Dashboard
 
 ![Dashboard Preview](https://github.com/hussain-data/Interactive-Supply-Chain-Dashboard/blob/857401bdf5218ac9cf7d7422274e8065ab522acb/iscanal.png)
 
